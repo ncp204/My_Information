@@ -1,0 +1,4 @@
+1. Pattern của reactjs là gì
+2. Giải thuật của reactjs là gì
+3. Cấu trúc dữ liệu của reactjs là gì
+4. scss là gì
